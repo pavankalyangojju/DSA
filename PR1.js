@@ -7,6 +7,4 @@ function prime(n) {
     return 'prime'
 }
 var res = prime(6);
-// var res = prompt(parseInt("enter : "));
-
 console.log(res)
